@@ -42,7 +42,12 @@ Follow these step-by-step instructions to get the code running:
 - **Right:** Left motor spins forward, right motor spins backward (or stops) to turn right.
 
 ## 📸 Output / Demo
-*(Please add images or a video demonstrating your robot car in action here)*
+Here is the robot car in action!
+
+![Robot Car - Image 1](assets/img_1.jpeg)
+![Robot Car - Circuit](assets/ckt_1.jpeg)
+
+*(Check out `vid_1.mp4` and `vid_2.mp4` in the `assets` folder for full video demonstrations!)*
 
 ---
 *Detailed project documentation, including schematics and design choices, can be found in the attached Word and PDF reports in this repository.*
