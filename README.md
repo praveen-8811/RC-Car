@@ -1,6 +1,8 @@
 # ESP32 Robot Car
 
-This repository contains the code and documentation for an ESP32-based Robot Car project.
+## About
+
+This repository contains the code and documentation for an ESP32-based Robot Car project. This project involves building a remote-controlled vehicle powered by the ESP32 microcontroller, featuring custom control logic. It serves as a comprehensive example of integrating hardware components like motors and drivers with the ESP32 ecosystem.
 
 ## Repository Contents
 
